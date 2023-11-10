@@ -1,0 +1,31 @@
+index,Name,SuS ID,Quiz ID,Fragennutzung ID,Quiz Startzeit,Quiz Abgabezeit,Punktzahl,Anzahl Versuche,Quiz Bearbeitungsdauer,Beste Punktzahl in %,Anmelde ID,Klassen ID,Klasse,Fach,Aufgabe,Maximale Punktzahl,Maximale Note in %,Alle Fächer,Allgemein,Einwilligung abgegeben,Frage Versuch ID,Slot,Frage ID,Frage Text,Antwort,Frage Name
+0,Pandora Sykes,153,9.0,21.0,2023-09-14 08:34:43,2023-09-14 08:35:51,0.00000,1.0,0 days 00:01:08,0.00000,1.0,2.0,Klasse 1a,Organisation,Auswahl der übermittelten Daten,0.00000,0.00000,Alle Fächer,Allgemein,Ja,327,1,6331,"Möchtest du deinen vollen Namen übermitteln?
+",Falsch,Name
+1,Pandora Sykes,153,9.0,21.0,2023-09-14 08:34:43,2023-09-14 08:35:51,0.00000,1.0,0 days 00:01:08,0.00000,1.0,2.0,Klasse 1a,Organisation,Auswahl der übermittelten Daten,0.00000,0.00000,Alle Fächer,Allgemein,Ja,328,2,6335,"Möchtest du übermitteln, in welcher Klasse du bist?
+Beachte hierbei, dass diese Information ausschließlich in der Analyse fehlt. Du bist trotzdem sichtbar in die Kurse deiner Klasse eingeschrieben.
+",Falsch,Klasse
+2,Pandora Sykes,153,9.0,21.0,2023-09-14 08:34:43,2023-09-14 08:35:51,0.00000,1.0,0 days 00:01:08,0.00000,1.0,2.0,Klasse 1a,Organisation,Auswahl der übermittelten Daten,0.00000,0.00000,Alle Fächer,Allgemein,Ja,329,3,6336,"Möchtest du übermitteln, in welcheln Fächern du die Aufgaben erledigt hast?
+",Falsch,Fach
+3,Pandora Sykes,153,9.0,21.0,2023-09-14 08:34:43,2023-09-14 08:35:51,0.00000,1.0,0 days 00:01:08,0.00000,1.0,2.0,Klasse 1a,Organisation,Auswahl der übermittelten Daten,0.00000,0.00000,Alle Fächer,Allgemein,Ja,330,4,6337,"Möchtest du übermitteln, welche Aufgabe du erledigt hast? Das beinhaltet den Namen der erledigten Aufgabe.
+",Wahr,Aufgabe
+4,Pandora Sykes,153,9.0,21.0,2023-09-14 08:34:43,2023-09-14 08:35:51,0.00000,1.0,0 days 00:01:08,0.00000,1.0,2.0,Klasse 1a,Organisation,Auswahl der übermittelten Daten,0.00000,0.00000,Alle Fächer,Allgemein,Ja,331,5,6332,"Möchtest du die Zeit übermitteln, zu der du mit der Bearbeitung der Aufgabe angefangen hast?
+",Wahr,Quiz Startzeit
+5,Pandora Sykes,153,9.0,21.0,2023-09-14 08:34:43,2023-09-14 08:35:51,0.00000,1.0,0 days 00:01:08,0.00000,1.0,2.0,Klasse 1a,Organisation,Auswahl der übermittelten Daten,0.00000,0.00000,Alle Fächer,Allgemein,Ja,332,6,6333,"Möchtest du übermitteln, wann du die Aufgaben beendet hast?
+",Falsch,Quiz Abgabezeit
+6,Pandora Sykes,153,9.0,21.0,2023-09-14 08:34:43,2023-09-14 08:35:51,0.00000,1.0,0 days 00:01:08,0.00000,1.0,2.0,Klasse 1a,Organisation,Auswahl der übermittelten Daten,0.00000,0.00000,Alle Fächer,Allgemein,Ja,333,7,6334,"Möchtest du deine Punktzahl übermitteln?
+",Falsch,Punktzahl
+14,Pandora Sykes,153,9.0,23.0,2023-10-21 14:11:30,2023-10-21 14:12:15,0.00000,2.0,0 days 00:00:45,0.00000,1.0,2.0,Klasse 1a,Organisation,Auswahl der übermittelten Daten,0.00000,0.00000,Alle Fächer,Allgemein,Ja,414,1,6331,"Möchtest du deinen vollen Namen übermitteln?
+",Wahr,Name
+15,Pandora Sykes,153,9.0,23.0,2023-10-21 14:11:30,2023-10-21 14:12:15,0.00000,2.0,0 days 00:00:45,0.00000,1.0,2.0,Klasse 1a,Organisation,Auswahl der übermittelten Daten,0.00000,0.00000,Alle Fächer,Allgemein,Ja,415,2,6335,"Möchtest du übermitteln, in welcher Klasse du bist?
+Beachte hierbei, dass diese Information ausschließlich in der Analyse fehlt. Du bist trotzdem sichtbar in die Kurse deiner Klasse eingeschrieben.
+",Falsch,Klasse
+16,Pandora Sykes,153,9.0,23.0,2023-10-21 14:11:30,2023-10-21 14:12:15,0.00000,2.0,0 days 00:00:45,0.00000,1.0,2.0,Klasse 1a,Organisation,Auswahl der übermittelten Daten,0.00000,0.00000,Alle Fächer,Allgemein,Ja,416,3,6336,"Möchtest du übermitteln, in welcheln Fächern du die Aufgaben erledigt hast?
+",Falsch,Fach
+17,Pandora Sykes,153,9.0,23.0,2023-10-21 14:11:30,2023-10-21 14:12:15,0.00000,2.0,0 days 00:00:45,0.00000,1.0,2.0,Klasse 1a,Organisation,Auswahl der übermittelten Daten,0.00000,0.00000,Alle Fächer,Allgemein,Ja,417,4,6337,"Möchtest du übermitteln, welche Aufgabe du erledigt hast? Das beinhaltet den Namen der erledigten Aufgabe.
+",Wahr,Aufgabe
+18,Pandora Sykes,153,9.0,23.0,2023-10-21 14:11:30,2023-10-21 14:12:15,0.00000,2.0,0 days 00:00:45,0.00000,1.0,2.0,Klasse 1a,Organisation,Auswahl der übermittelten Daten,0.00000,0.00000,Alle Fächer,Allgemein,Ja,418,5,6332,"Möchtest du die Zeit übermitteln, zu der du mit der Bearbeitung der Aufgabe angefangen hast?
+",Wahr,Quiz Startzeit
+19,Pandora Sykes,153,9.0,23.0,2023-10-21 14:11:30,2023-10-21 14:12:15,0.00000,2.0,0 days 00:00:45,0.00000,1.0,2.0,Klasse 1a,Organisation,Auswahl der übermittelten Daten,0.00000,0.00000,Alle Fächer,Allgemein,Ja,419,6,6333,"Möchtest du übermitteln, wann du die Aufgaben beendet hast?
+",Falsch,Quiz Abgabezeit
+20,Pandora Sykes,153,9.0,23.0,2023-10-21 14:11:30,2023-10-21 14:12:15,0.00000,2.0,0 days 00:00:45,0.00000,1.0,2.0,Klasse 1a,Organisation,Auswahl der übermittelten Daten,0.00000,0.00000,Alle Fächer,Allgemein,Ja,420,7,6334,"Möchtest du deine Punktzahl übermitteln?
+",Wahr,Punktzahl
